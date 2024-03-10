@@ -33,9 +33,7 @@ To run Dine Market locally on your machine, follow these steps:
 
 We welcome contributions from the community to help improve Dine Market. If you have any ideas, suggestions, or find any issues, please feel free to open an issue or submit a pull request.
 
-## Support
 
-If you encounter any problems while using Dine Market or have any questions, please don't hesitate to contact our support team at ahmadpr4410@gmail.com.
 
 Happy shopping and happy cooking with Dine Market!
 
